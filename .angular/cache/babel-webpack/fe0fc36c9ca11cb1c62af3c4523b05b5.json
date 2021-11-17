@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction, props } from '@ngrx/store';\nexport var loadBook = createAction('[Book Exists Guard] Load Book', props());","map":null,"metadata":{},"sourceType":"module"}

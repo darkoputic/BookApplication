@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction, props } from '@ngrx/store';\nexport var login = createAction('[Login Page] Login', props());","map":null,"metadata":{},"sourceType":"module"}

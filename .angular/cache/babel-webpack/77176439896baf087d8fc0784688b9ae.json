@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction } from '@ngrx/store';\nexport var logout = createAction('[Auth] Logout');\nexport var logoutConfirmation = createAction('[Auth] Logout Confirmation');\nexport var logoutConfirmationDismiss = createAction('[Auth] Logout Confirmation Dismiss');","map":null,"metadata":{},"sourceType":"module"}

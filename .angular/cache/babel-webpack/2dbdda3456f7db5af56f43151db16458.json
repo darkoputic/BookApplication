@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction, props } from '@ngrx/store';\nexport var selectBook = createAction('[View Book Page] Select Book', props());","map":null,"metadata":{},"sourceType":"module"}

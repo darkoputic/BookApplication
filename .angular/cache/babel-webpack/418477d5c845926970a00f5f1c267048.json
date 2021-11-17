@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction } from '@ngrx/store';\nexport var idleTimeout = createAction('[User] Idle Timeout');","map":null,"metadata":{},"sourceType":"module"}
